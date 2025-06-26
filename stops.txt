@@ -1,4 +1,11 @@
 stop_id,stop_name,stop_lat,stop_lon
-VC0001,Jardim Publico - A, 41.6935021, -8.8239369
-VC0002,Jardim Publico - B, 41.6934815, -8.8242953
-
+VC0000,Interface de Transportes (Viana do Castelo), 41.6950510, -8.8322548
+VC0001,Jardim Publico A (Viana do Castelo), 41.6935021, -8.8239369
+VC0002,Jardim Publico B (Viana do Castelo), 41.6934815, -8.8242953
+VC0003,Liceu (Viana do Castelo), 41.7004245, -8.8232020
+VC0004,Mercado Municipal (Viana do Castelo), 41.6991298, -8.8253172
+VC0005,ESE - Escola Superior de Educação (Viana do Castelo), 41.7025971, -8.8204574
+VC0006,Escola do Carmo (Viana do Castelo), 41.6963548, -8.8228261
+VC0007,Campo da Agonia A (Viana do Castelo), 41.6905428, -8.8363814
+VC0008,Campo da Agonia B (Viana do Castelo), 41.6909559, -8.8363327
+VC0009,Escola Secundária de Monserrate (Viana do Castelo), 41.6933494, -8.8401717
