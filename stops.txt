@@ -1,1 +1,4 @@
 stop_id,stop_name,stop_lat,stop_lon
+VC0001,Jardim Publico - A, 41.6935021, -8.8239369
+VC0002,Jardim Publico - B, 41.6934815, -8.8242953
+
