@@ -9,3 +9,9 @@ VC0006,Escola do Carmo (Viana do Castelo), 41.6963548, -8.8228261
 VC0007,Campo da Agonia A (Viana do Castelo), 41.6905428, -8.8363814
 VC0008,Campo da Agonia B (Viana do Castelo), 41.6909559, -8.8363327
 VC0009,Escola Secundária de Monserrate (Viana do Castelo), 41.6933494, -8.8401717
+VC0010,ESTG - Escola Superior de Tecnologia e Gestão (Viana do Castelo), 41.6933173, -8.8470837
+VC0011,Igreja Paroquial de Senhor do Socorro A (Areosa),41.6997519, -8.8463488
+VC0012,Igreja Paroquial de Senhor do Socorro B (Areosa),41.6996538, -8.8461201
+VC0013,Quinta dos Padres A (Darque),41.6847961, -8.8115890
+VC0014,Quinta dos Padres B (Darque),41.6848605, -8.8114771
+
