@@ -10,8 +10,16 @@ VC0007,Campo da Agonia A (Viana do Castelo), 41.6905428, -8.8363814
 VC0008,Campo da Agonia B (Viana do Castelo), 41.6909559, -8.8363327
 VC0009,Escola Secundária de Monserrate (Viana do Castelo), 41.6933494, -8.8401717
 VC0010,ESTG - Escola Superior de Tecnologia e Gestão (Viana do Castelo), 41.6933173, -8.8470837
-VC0011,Igreja Paroquial de Senhor do Socorro A (Areosa),41.6997519, -8.8463488
-VC0012,Igreja Paroquial de Senhor do Socorro B (Areosa),41.6996538, -8.8461201
-VC0013,Quinta dos Padres A (Darque),41.6847961, -8.8115890
-VC0014,Quinta dos Padres B (Darque),41.6848605, -8.8114771
+
+ME0001, Argaçosa (Meadela), 41.7013282, -8.8107974
+ME0002, São Vicente A (Meadela), 41.7050299, -8.8141599
+ME0003, São Vicente B (Meadela), 41.7046810, -8.8152150
+ME0004, Centro de Saúde A (Meadela), 41.7050990, -8.8106620
+ME0005, Centro de Sáude B (Meadela), 41.7055906, -8.8082939
+
+AR0001,Igreja Paroquial de Senhor do Socorro A (Areosa),41.6997519, -8.8463488
+AR0002,Igreja Paroquial de Senhor do Socorro B (Areosa),41.6996538, -8.8461201
+
+DA0001,Quinta dos Padres A (Darque),41.6847961, -8.8115890
+DA0002,Quinta dos Padres B (Darque),41.6848605, -8.8114771
 
