@@ -16,6 +16,7 @@ ME0002, São Vicente A (Meadela), 41.7050299, -8.8141599
 ME0003, São Vicente B (Meadela), 41.7046810, -8.8152150
 ME0004, Centro de Saúde A (Meadela), 41.7050990, -8.8106620
 ME0005, Centro de Sáude B (Meadela), 41.7055906, -8.8082939
+ME0006, Casa do Benfica (Meadela), 41.7058905, -8.8073236
 
 AR0001,Igreja Paroquial de Senhor do Socorro A (Areosa),41.6997519, -8.8463488
 AR0002,Igreja Paroquial de Senhor do Socorro B (Areosa),41.6996538, -8.8461201
